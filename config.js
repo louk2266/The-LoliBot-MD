@@ -10,19 +10,19 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 ///⊱ ━━━━━.⋅ Añada los numeros a ser Propietario ⋅.━━━━ ⊰  
 global.owner = [
-  ['5492266466080', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['573046577392', '𝘼𝙯𝙖𝙢𝙞 𝙨𝙪𝙥𝙥𝙤𝙧𝙩', true],
-  ['593968585383'],
-  ['5492266613038'],
-  ['5214531173598'],
-  ['59894808483'],
-  ['5214531106422']
+  ['212661809542', '@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹', true],
+  ['212661809542', 'MEE4🐬', true],
+  ['212661809542', '@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹', true],
+  ['212661809542'],
+  ['212661809542'],
+  ['212661809542'],
+  ['212661809542'],
+  ['212661809542']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['595986172767', '972529277314'],  
+global.mods = ['212661809542'] 
+global.prems = ['212661809542', '212661809542'],  
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -87,15 +87,15 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = '@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹'
+global.author = 'MEE4🐬'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
+global.lb = '@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹'
+global.yt = 'https://www.youtube.com/@Al--malaki'
+global.ig = 'https://www.tiktok.com/@mr.twix.ff1'
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
@@ -152,13 +152,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '5492266466080'
+global.wm = '@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹'
+global.igfg = '@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹'
+global.wait = '*⌛ _تسنا لحفضڪ اڪ هه..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ تسنا لحفضڪ اڪ هه..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ تسنا لحفضڪ اڪ هه..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ تسنا  لحفضڪ اڪ هه..._ ▬▬▬▬▬▬▭*'
+global.nomorown = '212661809542'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
